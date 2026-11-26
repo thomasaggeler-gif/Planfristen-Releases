@@ -3,6 +3,23 @@
     <channel>
         <title>Planfristen</title>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Thu, 26 Nov 2026 23:30:48 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Neu: Jede Lieferung hat einen Verlauf. Im Lieferungs-Fenster siehst du unten, wer wann was geändert hat, mit Datum und Uhrzeit, zum Beispiel eine verschobene Frist oder «geliefert». Der Verlauf lässt sich nicht bearbeiten. In den Einstellungen kannst du unter «Dein Name» festlegen, wie du im Verlauf erscheinst.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen-0.1.9.zip" length="2670028" type="application/octet-stream" sparkle:edSignature="i1ZLADEpXHrWvimsVL01ny+2mjv67Q62YzMi4jjh8yVBNF7dY9S6LMDXvbHP/cXVj/uLtUDSYD9iASvuXr2nDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen10-9.delta" sparkle:deltaFrom="9" length="227770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9+TejOO+vhwz6yG5klEf2qpgVEATlMbRx/fcYBNjtr5+zI5uZTVArAyEd09SOJxiDGJ7+3/Ny5+U5WBMBueGBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen10-8.delta" sparkle:deltaFrom="8" length="353746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lsm7uxpM/FKuYG4ipBh/ilP8/lb7GsOzHjuvJUwS9fus/B/INxu18O6oj+xtTUeQlCNvoa5c/thWmzFSAdSuDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen10-7.delta" sparkle:deltaFrom="7" length="363502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jQ6rF0gWPZxEKUZEQW9uQeanHaet9UlMXLNBhBY48Fp6x75iaOc67TXQ+3M+i7Coilu1+VqDF9vgaqgUZKSIAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen10-6.delta" sparkle:deltaFrom="6" length="367198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RGDa3OIPq8vqtLyHvfCsogicUtdWuFrQ0wN9aiD9h4AwixUfjulCAR8v3vV2poqjnVF82/xwqQne5CHsQm2iDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen10-5.delta" sparkle:deltaFrom="5" length="377954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="73xyf+/hRZELdgOp6AihG9IN1cXmq4Dh4itESO/D+WmmgWQJbSXlt1VqR/zJQNxSas8h2c5qh0RI1pqNTok1Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Thu, 26 Nov 2026 23:22:39 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -12,11 +29,11 @@
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen-0.1.8.zip" length="2636772" type="application/octet-stream" sparkle:edSignature="nbfoxWFqYEleFyf32wAzWKda1hdxjUGXTaW+iihQFkypWv2/r1eoWAVAs+GKRRmfg7fXM0al+mzl7eYZffMECA=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-8.delta" sparkle:deltaFrom="8" length="310142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QRF1vONAE/UVkSzZ0GTamEN0IgZ63jQvpnyEENnjjMf5WMvjmLDkfYC1+KKFVBgd4BkpOwwt+IGshk9EggijAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-7.delta" sparkle:deltaFrom="7" length="324922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6rgcldiWRAUlSTOIILilzXCiH1YJjY0lxRuVWbwwEu0adpSoiR0Zzbe0HiQPxY0TeskZwNaaOfrxKBgR+iXRBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-6.delta" sparkle:deltaFrom="6" length="325214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6sKK8ej9fMqAWuslEf8y32QZjkHdNocG8Tl5CQHH2PZRTVqlw5TS5nEA3lmt8hdarVvpMpjjI+utTpmwMttJBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-5.delta" sparkle:deltaFrom="5" length="339074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MhjC/xs1CBFGITg6M9jxgbYiCAYUcWHlGAQD1poQW3w7ZFrdIDeyQGVLVKN6jayh5e8ovWe3DG3x0vrxHepbAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-4.delta" sparkle:deltaFrom="4" length="357650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LQd+K3rlZM8wJUyGBb3TJvmLkVPueJUElyAbC5yo/02Jk3MlC/BZEfTX8/crGRtFaktx4C19UbVL+d6cXuQOCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-8.delta" sparkle:deltaFrom="8" length="310142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-7.delta" sparkle:deltaFrom="7" length="324922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-6.delta" sparkle:deltaFrom="6" length="325214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-5.delta" sparkle:deltaFrom="5" length="339074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen9-4.delta" sparkle:deltaFrom="4" length="357650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
         <item>
@@ -34,23 +51,6 @@
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen8-5.delta" sparkle:deltaFrom="5" length="186350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen8-4.delta" sparkle:deltaFrom="4" length="214766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen8-3.delta" sparkle:deltaFrom="3" length="417810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.6</title>
-            <pubDate>Thu, 26 Nov 2026 22:56:10 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Neu: klarere Farben im Status. Offen ist schwarz, ab dem Erinnerungstag steht «bald fällig» in Violett, am Fristtag «heute fällig» in Orange, danach «überfällig» in Rot. Geliefert bleibt grün.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen-0.1.6.zip" length="2555696" type="application/octet-stream" sparkle:edSignature="/bOxEAjG07GfeEvT9Ez1Oon+V0uJ2pkR68gq/MTpQEJe6DaMPndiTDvreOLaLzORMrsgMkphWkPslfoPKQFZDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen7-6.delta" sparkle:deltaFrom="6" length="71694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen7-5.delta" sparkle:deltaFrom="5" length="170134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen7-4.delta" sparkle:deltaFrom="4" length="198922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen7-3.delta" sparkle:deltaFrom="3" length="422342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen7-2.delta" sparkle:deltaFrom="2" length="509446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
     </channel>
