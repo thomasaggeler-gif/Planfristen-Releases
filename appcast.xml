@@ -3,6 +3,19 @@
     <channel>
         <title>Planfristen</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 26 Nov 2026 22:07:20 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Neues Logo: eine Planrolle mit Uhr.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen-0.1.1.zip" length="2164872" type="application/octet-stream" sparkle:edSignature="oGGQhhdOwNRPVpZyZl1+RBfDSf1BpRyD2TtfWaMEgsG5Lo0u6x6ixXPJF8Z2Dl7gbCexfI5rsdl3ybl2K9B/Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen2-1.delta" sparkle:deltaFrom="1" length="324530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9DIJjKfhpZtJ1WzSfz4ludkFDpGsecuNuy7uWbOljAt40u3aLjl5fQJ5JhsrmxUcHFJMMbvAg3csOK8teoJvBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 26 Nov 2026 22:01:36 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
