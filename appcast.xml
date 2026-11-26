@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Planfristen</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 26 Nov 2026 22:01:36 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Erste Version: Projekte, Lieferanten und Planlieferungen von Hand erfassen. Die Übersicht zeigt mit einer Ampel, was offen, bald fällig oder überfällig ist, und an welchem Tag du erinnert wirst.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Planfristen-Releases/main/Planfristen-0.1.0.zip" length="4715915" type="application/octet-stream" sparkle:edSignature="gZoo3atj8/hK5rKAj/359pfIs0R1vEyscftkek5tqRhhR05HcRc0JfgyscEdEiT9t0Z4Za2okXMeHF2WXlRqAw=="/>
+        </item>
+    </channel>
+</rss>
